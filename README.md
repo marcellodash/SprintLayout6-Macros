@@ -9,4 +9,4 @@ Since Sprint Layout macros are somewhat hard to find, I dared to include macros 
 1. Download contents of this repository as a .zip file
 2. Copy folder "NET"
 3. Navigate to "C:\Users\Public\Public Documents\Layout60\MAKROS"
-4. Paste NET folder in there
+4. Paste "NET" folder in there
