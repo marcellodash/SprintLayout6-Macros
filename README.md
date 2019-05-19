@@ -1,12 +1,11 @@
 # Sprint Layout 6 Macros
 
-This repository contains my collection of macros for Sprint Layout 6. Some of them are made by me, some of them are just macros I needed and found on the internet. All macros made by me are free for personal and commercial use.
-
-Since Sprint Layout macros are somewhat hard to find, I dared to include macros that are not mine in this repository as well. If you notice your macro and you don't want it to be published here, let me know and I'll remove it.
+This repository contains my collection of macros for Sprint Layout 6. All macros made by me are free for personal and commercial use.
 
 # How to install?
 
-1. Download contents of this repository as a .zip file
-2. Copy folder "NET"
-3. Navigate to "C:\Users\Public\Public Documents\Layout60\MAKROS"
-4. Paste "NET" folder in there
+1. Download contents of this repository as a .zip file or clone this repository.
+2. Copy folder "NET".
+3. Navigate to "C:\Users\Public\Public Documents\Layout60\MAKROS".
+4. Paste "NET" folder in there.
+5. New macros will load the next time you open Sprint Layout 6. If you have Sprint Layout 6 opened and want to use new macros right away, remember to exit Sprint Layout and then run it again.
